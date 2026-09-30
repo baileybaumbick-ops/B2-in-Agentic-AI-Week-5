@@ -1,0 +1,100 @@
+# Ask: Why did the incumbents retaliate against Ryanair's first entry even though accommodating looked more profitable in the short run?
+
+**Status:** answered
+
+The incumbents retaliated against Ryanair's first entry because they expected Ryanair to expand [S2]. Ryanair's initial entry was an undifferentiated direct attack with a murky target customer, which drew retaliation [S6].
+
+## Cited sources
+- [S2] vault/Sources/Class 7 - Entry Dynamics.md › Case - Ryanair, first entry
+- [S6] vault/Value and Advantage/Counter-Positioning.md › Key Points
+
+## Retrieved passages
+### [S1] vault/Sources/Class 7 - Entry Dynamics.md › Case - Ryanair, first entry
+kind=source cosine=0.598 bm25=10.29
+
+Before deregulation, European aviation was run by national flag carriers acting like regulated monopolies that colluded with each other, and they were inefficient. British Airways moved 308 passengers per staff member in 1978 and 483 in 1985, versus 708 for US airlines in 1978, and flew at 60-70% utilization. As the industry deregulated, the Dublin-London route was very profitable. Deregulation made it a contestable market: if an incumbent earns a lot on a route, someone can enter.
+
+### [S2] vault/Sources/Class 7 - Entry Dynamics.md › Case - Ryanair, first entry
+kind=source cosine=0.693 bm25=9.75
+
+Ryanair entered with turboprops between Luton and Dublin at a £98 fare, promising to be more efficient. Its planes could carry only about 64,000 of the route's 500,000 passengers. In a simple short-run calculation, Aer Lingus and British Airways would earn about £60M by accommodating (keeping the £166 fare and losing 64,000 passengers) versus about £34.5M by retaliating (cutting to £98 to keep everyone). But the incumbents expected Ryanair to expand (it had applied to fly jets, and £98 was probably not sustainable, since costs were likely above £95-100). They retaliated harshly and Ryanair nearly went bankrupt.
+
+### [S3] vault/Sources/Class 7 - Entry Dynamics.md › Dynamic entry games
+kind=source cosine=0.522 bm25=7.0
+
+An entry game is a structured way to think about how an incumbent will respond. The entrant chooses to enter or stay out; the incumbent chooses to retaliate or accommodate. You solve it by looking forward and reasoning backward (backward induction).
+
+In the basic Ryanair game the incumbent gets £69M if there is no entry, £60M if it accommodates and £34M if it retaliates, so it accommodates, and the entrant enters if its fixed cost F is below £4.4M.
+
+Add a second stage where, after accommodation, the entrant can enter another of the incumbent's markets (entrant £40M - F, incumbent £30M). Now the entrant would surely expand, so the incumbent compares £34M (retaliate) with £30M (accommodate then lose the second market) and retaliates. Knowing that, the entrant stays out. The counterintuitive lesson: having the extra option to expand makes the entrant worse off, because it triggers retaliation. The entrant would remove that option if it could.
+
+A threat to retaliate works only if it is credible: when the moment comes, the incumbent must actually want to carry it out.
+
+### [S4] vault/Sources/Class 6 - Entry and Positioning.md › Entry examples
+kind=source cosine=0.328 bm25=8.92
+
+- Southwest positioned against driving, using secondary airports, point-to-point routes and one aircraft type. Rivals mostly accommodated by retreating to long-haul and business routes.
+- Warby Parker sold prescription glasses at $95 direct to consumers, bypassing Luxottica. Luxottica could not match the price without cannibalizing its own stores and licensing business, so it accommodated.
+- Google Docs (2006) entered as a low-end alternative; Microsoft responded with Office 365 in 2011 and sped it up from 2014.
+- Perplexity attacked Google Search directly with an answer engine. Google retaliated with AI Overviews from 2024, even though they reduce ad clicks.
+- Mounjaro (Eli Lilly) arrived five years after Ozempic (Novo Nordisk) and gained share on better outcomes.
+- SpaceX entered space launch after Boeing and Lockheed Martin formed the United Launch Alliance in 2006; Falcon 9 was certified for national security launches in 2015.
+
+### [S5] vault/Sources/Class 7 - Entry Dynamics.md › Case - Ryanair, second entry
+kind=source cosine=0.591 bm25=5.53
+
+After near-bankruptcy Ryanair repositioned as a true no-frills, low-cost airline: secondary destinations, a standard fleet, staff paid on productivity and sales, extra fees for almost everything, and skimping on everything except maintenance. It advertised the bare-bones experience openly. The first attempt was an undifferentiated direct attack with a murky target customer and drew retaliation; the second focused on very price-sensitive travelers with an offer incumbents could not match and did not want to, because they kept their other customers. This is counter-positioning.
+
+### [S6] vault/Value and Advantage/Counter-Positioning.md › Key Points
+kind=note cosine=0.564 bm25=6.26
+
+### From Class 7 - Entry Dynamics
+- The first attempt was an undifferentiated direct attack with a murky target customer and drew retaliation. ([[Class 7 - Entry Dynamics#Case - Ryanair, second entry|Class 7 › Case - Ryanair, second entry]])
+- The second focus was on very price-sensitive travelers with an offer incumbents could not match. ([[Class 7 - Entry Dynamics#Case - Ryanair, second entry|Class 7 › Case - Ryanair, second entry]])
+
+## Checks and timing
+```json
+{
+  "checks": {
+    "best_cosine": 0.693,
+    "keyword_overlap": true,
+    "question_terms_absent_from_passages": [],
+    "answerability": {
+      "answerable": true,
+      "passages": [
+        "S2",
+        "S3"
+      ],
+      "reason": "The incumbents retaliated because they expected Ryanair to expand, and Ryanair's initial entry drew a harsh response from the incumbents."
+    },
+    "attempt": 1,
+    "invalid_citations": [],
+    "uncited_sentences": []
+  },
+  "timing": {
+    "retrieval_s": 0.15,
+    "generation_s": 29.16,
+    "model_load_s": 0.11,
+    "prompt_tokens": 2918,
+    "output_tokens": 99,
+    "tokens_per_second": 17.8,
+    "model_calls": 2,
+    "total_s": 29.31
+  },
+  "memory": [
+    {
+      "model": "gemma4:e2b",
+      "size_gb": 6.87,
+      "vram_gb": 0.0,
+      "context": 8192
+    },
+    {
+      "model": "embeddinggemma:latest",
+      "size_gb": 0.68,
+      "vram_gb": 0.0,
+      "context": 2048
+    }
+  ],
+  "model": "gemma4:e2b"
+}
+```

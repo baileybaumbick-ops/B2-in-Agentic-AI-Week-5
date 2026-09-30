@@ -1,0 +1,53 @@
+{
+  "mode": "search",
+  "query": "Enterprise referrals body shops insurance",
+  "scope": "all",
+  "passages": [
+    {
+      "tag": "R1",
+      "path": "vault/Sources/Class 5 - Competitive Advantage.md",
+      "section": "Case - Enterprise Rent-A-Car",
+      "kind": "source",
+      "text": "Enterprise was consistently the most profitable US rental car company. Its choices reinforce each other:\n- Locations: it served people who are not traveling and skipped the crowded airport market, opening many small, convenient, low-cost offices; about 90% of the US population lives within 15 minutes of one.\n- Referrals: close relationships with body shops and insurers, integrated through its ARMS/ECARS systems, with staff placed at insurers. Insurers pay for the rental, so Enterprise competes on service rather than price.\n- Organization: hires sociable college graduates, pays for performance tied to branch profit, promotes from within; runs its own reservation and inventory systems and sells used cars through about 30 lots.\n\nLocations justify referrals, referrals justify locations, and the organization sustains both, which creates a chicken-and-egg problem for Avis or Hertz trying to copy it. One risk is that promote-from-within needs constant growth.",
+      "cosine": 0.452,
+      "bm25": 18.89
+    },
+    {
+      "tag": "R2",
+      "path": "vault/Entry and Competition/Dynamic Entry Games.md",
+      "section": "Key Points",
+      "kind": "note",
+      "text": "- The incumbent gets £69M if there is no entry, £60M if it accommodates and £34M if it retaliates. ([[Class 7 - Entry Dynamics#Dynamic entry games|Class 7 › Dynamic entry games]])\n- The entrant enters if its fixed cost F is below £4.4M. ([[Class 7 - Entry Dynamics#Dynamic entry games|Class 7 › Dynamic entry games]])\n- Having the extra option to expand makes the entrant worse off because it triggers retaliation. ([[Class 7 - Entry Dynamics#Dynamic entry games|Class 7 › Dynamic entry games]])",
+      "cosine": 0.241,
+      "bm25": 0.0
+    },
+    {
+      "tag": "R3",
+      "path": "vault/Entry and Competition/Entry Deterrence.md",
+      "section": "Key Points",
+      "kind": "note",
+      "text": "### From Class 7 - Entry Dynamics\n- Limit pricing to make entry unattractive (Alcoa). ([[Class 7 - Entry Dynamics#Entry deterrence|Class 7 › Entry deterrence]])\n- Capacity expansion to commit to fighting (DuPont in titanium dioxide, CF Industries). ([[Class 7 - Entry Dynamics#Entry deterrence|Class 7 › Entry deterrence]])\n- Product proliferation to fill every niche so there is no room (cereal, drug variants, railroad branch lines). ([[Class 7 - Entry Dynamics#Entry deterrence|Class 7 › Entry deterrence]])\n- Predatory pricing to build a reputation (OPEC, Uber, Walmart). ([[Class 7 - Entry Dynamics#Entry deterrence|Class 7 › Entry deterrence]])\n\n### From Class 8 - Strategic and Repeated Interactions\n- Large incumbents expand capacity to deter entrants. ([[Class 8 - Strategic and Repeated Interactions#Takeaways|Class 8 › Takeaways]])\n- Lock large customers into long-term contracts. ([[Class 8 - Strategic and Repeated Interactions#Takeaways|Class 8 › Takeaways]])\n- Punish small entrants to send a message. ([[Class 8 - Strategic and Repeated Interactions#Takeaways|Class 8 › Takeaways]])",
+      "cosine": 0.222,
+      "bm25": 0.0
+    },
+    {
+      "tag": "R4",
+      "path": "vault/Entry and Competition/Dynamic Entry Games.md",
+      "section": "",
+      "kind": "note",
+      "text": "This framework analyzes how incumbents will respond to an entrant's decision to enter, using backward induction to predict strategic responses.",
+      "cosine": 0.218,
+      "bm25": 0.0
+    },
+    {
+      "tag": "R5",
+      "path": "vault/Value and Advantage/Joint Venture Exercise.md",
+      "section": "Key Points",
+      "kind": "note",
+      "text": "- The three-firm venture creates the most value. ([[Class 3 - Added Value and Irreplaceability#Joint venture exercise|Class 3 › Joint venture exercise]])\n- A firm should get at most its added value. ([[Class 3 - Added Value and Irreplaceability#Joint venture exercise|Class 3 › Joint venture exercise]])\n- A firm should get at least its outside option (BATNA). ([[Class 3 - Added Value and Irreplaceability#Joint venture exercise|Class 3 › Joint venture exercise]])",
+      "cosine": 0.217,
+      "bm25": 0.0
+    }
+  ],
+  "seconds": 0.05
+}

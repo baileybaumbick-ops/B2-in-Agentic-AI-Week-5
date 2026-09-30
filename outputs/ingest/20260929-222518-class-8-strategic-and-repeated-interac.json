@@ -1,0 +1,24 @@
+{
+  "mode": "ingest",
+  "results": [
+    {
+      "source": "Class 8 - Strategic and Repeated Interactions",
+      "path": "vault/Sources/Class 8 - Strategic and Repeated Interactions.md",
+      "status": "unchanged",
+      "created": [],
+      "updated": [],
+      "removed": [],
+      "rejected_titles": [],
+      "renamed": [],
+      "model_seconds": 0.0
+    }
+  ],
+  "index": {
+    "built_at": "2026-09-29T22:25:18",
+    "embed_model": "embeddinggemma",
+    "chunks": 115,
+    "sources": 8,
+    "notes": 29,
+    "newly_embedded": 0
+  }
+}

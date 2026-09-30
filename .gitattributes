@@ -1,0 +1,2 @@
+# Keep every file byte-for-byte (source hashes in .index/manifest.json depend on it)
+* -text

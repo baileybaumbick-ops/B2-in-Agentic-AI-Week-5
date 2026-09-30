@@ -1,0 +1,28 @@
+{
+  "mode": "ingest",
+  "results": [
+    {
+      "source": "Class 3 - Added Value and Irreplaceability",
+      "path": "vault/Sources/Class 3 - Added Value and Irreplaceability.md",
+      "status": "created",
+      "created": [
+        "Irreplaceability Drives Value Capture",
+        "Defining Added Value",
+        "Joint Venture Exercise",
+        "Case - Intel"
+      ],
+      "updated": [],
+      "removed": [],
+      "rejected_titles": [],
+      "model_seconds": 70.8
+    }
+  ],
+  "index": {
+    "built_at": "2026-09-29T21:37:41",
+    "embed_model": "embeddinggemma",
+    "chunks": 58,
+    "sources": 7,
+    "notes": 4,
+    "newly_embedded": 58
+  }
+}

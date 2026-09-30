@@ -1,0 +1,30 @@
+{
+  "mode": "ingest",
+  "results": [
+    {
+      "source": "Class 8 - Strategic and Repeated Interactions",
+      "path": "vault/Sources/Class 8 - Strategic and Repeated Interactions.md",
+      "status": "created",
+      "created": [
+        "Repeated Interactions",
+        "Pricing Game"
+      ],
+      "updated": [
+        "Added Value",
+        "Entry Deterrence"
+      ],
+      "removed": [],
+      "rejected_titles": [],
+      "renamed": [],
+      "model_seconds": 49.2
+    }
+  ],
+  "index": {
+    "built_at": "2026-09-29T22:34:35",
+    "embed_model": "embeddinggemma",
+    "chunks": 116,
+    "sources": 8,
+    "notes": 29,
+    "newly_embedded": 13
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "label": "online-baseline",
+  "network_at_start": "ONLINE",
+  "network_at_end": "ONLINE",
+  "started": "2026-09-29T21:55:21",
+  "finished": "2026-09-29T21:57:05",
+  "device": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+    "ram_total_gb": 31.6,
+    "ram_available_at_start_gb": 8.1
+  },
+  "peak_ollama_rss_gb": 0.11,
+  "steps": [
+    {
+      "title": "Status (model, runtime, device, network)",
+      "command": "python wiki.py status",
+      "seconds": 2.6,
+      "exit": 0
+    },
+    {
+      "title": "Help",
+      "command": "python wiki.py help",
+      "seconds": 1.6,
+      "exit": 0
+    },
+    {
+      "title": "Re-ingest the same source (duplicate check): vault/Sources/Class 3 - Added Value and Irreplaceability.md",
+      "command": "python wiki.py ingest \"vault/Sources/Class 3 - Added Value and Irreplaceability.md\"",
+      "seconds": 2.3,
+      "exit": 0
+    },
+    {
+      "title": "Search: counter-positioning incumbent retaliate",
+      "command": "python wiki.py search \"counter-positioning incumbent retaliate\"",
+      "seconds": 2.2,
+      "exit": 0
+    },
+    {
+      "title": "Search: Enterprise referrals body shops insurance",
+      "command": "python wiki.py search \"Enterprise referrals body shops insurance\"",
+      "seconds": 2.3,
+      "exit": 0
+    },
+    {
+      "title": "Ask Q1 answerable",
+      "command": "python wiki.py ask \"In the joint venture exercise, what is Firm A's added value, and what range of payoffs should Firm A expect?\"",
+      "seconds": 14.9,
+      "exit": 0
+    },
+    {
+      "title": "Ask Q2 answerable",
+      "command": "python wiki.py ask \"Why did the incumbents retaliate against Ryanair's first entry even though accommodating looked more profitable in the short run?\"",
+      "seconds": 12.6,
+      "exit": 0
+    },
+    {
+      "title": "Ask Q3 answerable",
+      "command": "python wiki.py ask \"What major mistake did Holland Sweetener Company make with Coke and Pepsi, and what should it have done instead?\"",
+      "seconds": 17.3,
+      "exit": 0
+    },
+    {
+      "title": "Ask Q4 unsupported",
+      "command": "python wiki.py ask \"What did the course conclude about Disney's boundaries of the firm?\"",
+      "seconds": 4.2,
+      "exit": 0
+    },
+    {
+      "title": "Chat session: casual, drafting, follow-up, ask/chat separation, notes",
+      "command": "python wiki.py chat",
+      "seconds": 41.1,
+      "exit": 0
+    },
+    {
+      "title": "Status after tests (loaded model memory)",
+      "command": "python wiki.py status",
+      "seconds": 3.3,
+      "exit": 0
+    }
+  ]
+}

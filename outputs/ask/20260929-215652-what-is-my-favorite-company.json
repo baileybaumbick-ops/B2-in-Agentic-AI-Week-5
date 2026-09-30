@@ -1,0 +1,101 @@
+{
+  "question": "What is my favorite company?",
+  "answer": "Insufficient evidence: The passages do not contain information about a favorite company.",
+  "status": "insufficient_evidence",
+  "passages": [
+    {
+      "tag": "S1",
+      "path": "vault/Sources/Class 5 - Competitive Advantage.md",
+      "section": "Case - Enterprise Rent-A-Car",
+      "kind": "source",
+      "text": "Enterprise was consistently the most profitable US rental car company. Its choices reinforce each other:\n- Locations: it served people who are not traveling and skipped the crowded airport market, opening many small, convenient, low-cost offices; about 90% of the US population lives within 15 minutes of one.\n- Referrals: close relationships with body shops and insurers, integrated through its ARMS/ECARS systems, with staff placed at insurers. Insurers pay for the rental, so Enterprise competes on service rather than price.\n- Organization: hires sociable college graduates, pays for performance tied to branch profit, promotes from within; runs its own reservation and inventory systems and sells used cars through about 30 lots.\n\nLocations justify referrals, referrals justify locations, and the organization sustains both, which creates a chicken-and-egg problem for Avis or Hertz trying to copy it. One risk is that promote-from-within needs constant growth.",
+      "cosine": 0.318,
+      "bm25": 2.78
+    },
+    {
+      "tag": "S2",
+      "path": "vault/Sources/Class 1 - Introduction to Strategy.md",
+      "section": "Defining strategy",
+      "kind": "source",
+      "text": "The lecture quoted Porter (1996): a company can outperform rivals only if it can establish a difference it can preserve. In innovative industries these differences close quickly, so innovation must be continual. Working definition: strategy is a plan of action to achieve the firm's goal (profit) that establishes a persistent difference over rivals, by dissecting context and trade-offs to understand how others will respond and which features of the environment matter.\n\nBad strategy is different from bad luck: Porsche decided in 2019 to make the next Macan electric-only, then in 2025 added combustion and hybrid versions back, saying it would have made the same call on the data available at the time.",
+      "cosine": 0.178,
+      "bm25": 3.43
+    },
+    {
+      "tag": "S3",
+      "path": "vault/Sources/Class 5 - Competitive Advantage.md",
+      "section": "Three sources of competitive advantage",
+      "kind": "source",
+      "text": "The sources mirror the ways to create value: benefit-based, cost-based, and niche (quantity)-based.\n\nCost-based: Chevron used sensors and machine learning for predictive maintenance on about 5,000 heat exchangers, saving millions. Porter argues operational excellence alone is not a competitive advantage, but it could be one if Chevron has more or better data or gets ahead and stays ahead. AMD under Lisa Su bet on PC and server CPUs and graphics when conventional wisdom favored mobile, paid $325 million to exit its contract with GlobalFoundries so TSMC could make its chips, and invested in graphics despite NVIDIA.\n\nBenefit-based: Johnson & Johnson's brand certified quality for commodity products like children's Tylenol; the premium over the store brand was about 50% in 2019 ($7.49 versus $4.99). Supporting that brand required top-quality manufacturing and transparency. Around 2010, weak quality control, cost cutting and a \"phantom recall\" damaged the brand and pushed shoppers to generics.",
+      "cosine": 0.333,
+      "bm25": 0.0
+    },
+    {
+      "tag": "S4",
+      "path": "vault/Sources/Class 5 - Competitive Advantage.md",
+      "section": "Value proposition",
+      "kind": "source",
+      "text": "Firms in the same industry create value in different ways: Toyota (high-volume, reliable, practical cars) versus Porsche (low-volume, performance, distinctive styling); Uniqlo (quality basics with little style variety) versus Zara (fast-changing trend items); Apple (integrated hardware and software, ease of use, design) versus Microsoft (software with broad compatibility across third-party hardware). A value proposition is a short, precise statement of how the firm intends to create value, its plan for opening the gap between benefit B and cost C.",
+      "cosine": 0.316,
+      "bm25": 0.0
+    },
+    {
+      "tag": "S5",
+      "path": "vault/Sources/Class 3 - Added Value and Irreplaceability.md",
+      "section": "Case - Intel",
+      "kind": "source",
+      "text": "In DRAM, Intel's 1972 strategy was innovation and product design, being first to market, pricing high and moving on. That fit a new market where innovation mattered more than scale. By 1979 the market grew fast, product cycles shrank, scale mattered more, and Japanese producers with better manufacturing entered. Intel's added value in DRAM collapsed, so it moved to a market that fit its strengths: microprocessors. Lessons from DRAM: protect IP, commodities are hard to profit from, and manufacturing yield matters.\n\nIn the early PC years IBM was the most irreplaceable player thanks to its mainframe reputation (\"nobody ever got fired for buying IBM\"), which let it set the architecture standard. IBM's open model brought many partners and growth but lower margins and less control; Apple's closed model kept margin and control but grew slower.",
+      "cosine": 0.3,
+      "bm25": 0.0
+    },
+    {
+      "tag": "S6",
+      "path": "vault/Sources/Class 3 - Added Value and Irreplaceability.md",
+      "section": "Case - Intel",
+      "kind": "source",
+      "text": "By the 1990s the power had shifted to Intel and Microsoft (\"Wintel\"). The reason was network effects: apps are written for an OS, the OS talks to the processor, users go where the apps are, and developers go where the users are. Unlike a hard drive, you cannot swap out the OS or processor without breaking the apps. Watershed events: Compaq reverse-engineered the BIOS, so compatibility required Intel rather than IBM, and IBM delayed the 386 while it pushed its proprietary PS/2 and OS/2, so the market moved on without it. Intel's customers said they would need more than a 2x performance gap before switching to RISC.\n\nIntel captured its added value through Intel Inside (co-op ad money that PC makers could not refuse, a prisoner's dilemma that commoditized them), a systems business that showed PC makers they were replaceable, rationing new chips by past sales to discourage switching to AMD, and IP lawsuits against AMD.",
+      "cosine": 0.295,
+      "bm25": 0.0
+    }
+  ],
+  "cited": [],
+  "checks": {
+    "best_cosine": 0.333,
+    "keyword_overlap": true,
+    "question_terms_absent_from_passages": [
+      "favorite"
+    ],
+    "answerability": {
+      "answerable": false,
+      "passages": [],
+      "reason": "The passages do not contain information about a favorite company."
+    },
+    "gate": "answerability check said the passages do not answer the question"
+  },
+  "timing": {
+    "retrieval_s": 0.07,
+    "generation_s": 2.13,
+    "model_load_s": 0.01,
+    "prompt_tokens": 1579,
+    "output_tokens": 33,
+    "tokens_per_second": 18.0,
+    "model_calls": 1,
+    "total_s": 2.21
+  },
+  "memory": [
+    {
+      "model": "gemma4:e2b",
+      "size_gb": 6.87,
+      "vram_gb": 0.0,
+      "context": 8192
+    },
+    {
+      "model": "embeddinggemma:latest",
+      "size_gb": 0.68,
+      "vram_gb": 0.0,
+      "context": 2048
+    }
+  ],
+  "model": "gemma4:e2b",
+  "saved_to": ""
+}

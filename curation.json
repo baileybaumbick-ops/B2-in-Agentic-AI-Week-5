@@ -1,0 +1,16 @@
+{
+  "_about": "Human curation applied on every ingest and on `python wiki.py rebuild`. 'rename' maps a drafted title to the title to use (also catches the model re-proposing the old title on re-ingest). 'topic' pins a note to a topic folder. Originals in vault/Sources are never touched; links and the retrieval index are regenerated.",
+  "rename": {
+    "Context Matters": "Strategic Context",
+    "Astroscale Public Goods": "Public Goods"
+  },
+  "topic": {
+    "Strategic Context": "Strategy Foundations",
+    "Trade-Offs and Opportunity Cost": "Strategy Foundations",
+    "Public Goods": "Value and Advantage",
+    "Joint Venture Exercise": "Value and Advantage",
+    "AAA Framework": "Value and Advantage",
+    "Niche-Based Advantage": "Value and Advantage",
+    "Water Bottle Exercise": "Entry and Competition"
+  }
+}

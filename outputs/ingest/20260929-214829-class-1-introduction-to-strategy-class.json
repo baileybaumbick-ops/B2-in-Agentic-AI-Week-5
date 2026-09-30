@@ -1,0 +1,126 @@
+{
+  "mode": "ingest",
+  "results": [
+    {
+      "source": "Class 1 - Introduction to Strategy",
+      "path": "vault/Sources/Class 1 - Introduction to Strategy.md",
+      "status": "created",
+      "created": [
+        "Strategy",
+        "Context Matters",
+        "Trade-Offs and Opportunity Cost",
+        "Economic Approach",
+        "Moneyball Case"
+      ],
+      "updated": [],
+      "removed": [],
+      "rejected_titles": [],
+      "renamed": [
+        "Case - Intel -> Intel Case"
+      ],
+      "model_seconds": 78.7
+    },
+    {
+      "source": "Class 2 - Value Creation and Capture",
+      "path": "vault/Sources/Class 2 - Value Creation and Capture.md",
+      "status": "created",
+      "created": [
+        "Value Creation",
+        "Profit Function",
+        "CF Industries Case",
+        "Astroscale Public Goods"
+      ],
+      "updated": [],
+      "removed": [],
+      "rejected_titles": [
+        "Why Firms Fail"
+      ],
+      "renamed": [],
+      "model_seconds": 94.5
+    },
+    {
+      "source": "Class 3 - Added Value and Irreplaceability",
+      "path": "vault/Sources/Class 3 - Added Value and Irreplaceability.md",
+      "status": "unchanged",
+      "created": [],
+      "updated": [],
+      "removed": [],
+      "rejected_titles": [],
+      "renamed": [],
+      "model_seconds": 0.0
+    },
+    {
+      "source": "Class 4 - Industry Analysis",
+      "path": "vault/Sources/Class 4 - Industry Analysis.md",
+      "status": "created",
+      "created": [
+        "Five Forces",
+        "Entry Barriers",
+        "Rivalry",
+        "Cola Wars Case"
+      ],
+      "updated": [],
+      "removed": [],
+      "rejected_titles": [],
+      "renamed": [],
+      "model_seconds": 77.8
+    },
+    {
+      "source": "Class 5 - Competitive Advantage",
+      "path": "vault/Sources/Class 5 - Competitive Advantage.md",
+      "status": "created",
+      "created": [
+        "Competitive Advantage",
+        "Value Proposition",
+        "AAA Framework",
+        "Cost-Based Advantage",
+        "Niche-Based Advantage"
+      ],
+      "updated": [],
+      "removed": [],
+      "rejected_titles": [],
+      "renamed": [],
+      "model_seconds": 83.7
+    },
+    {
+      "source": "Class 6 - Entry and Positioning",
+      "path": "vault/Sources/Class 6 - Entry and Positioning.md",
+      "status": "created",
+      "created": [
+        "Entry and Exit",
+        "Counter-Positioning",
+        "Water Bottle Exercise",
+        "Tesla Case"
+      ],
+      "updated": [],
+      "removed": [],
+      "rejected_titles": [],
+      "renamed": [],
+      "model_seconds": 79.9
+    },
+    {
+      "source": "Class 7 - Entry Dynamics",
+      "path": "vault/Sources/Class 7 - Entry Dynamics.md",
+      "status": "created",
+      "created": [
+        "Entry Deterrence",
+        "Dynamic Entry Games"
+      ],
+      "updated": [
+        "Counter-Positioning"
+      ],
+      "removed": [],
+      "rejected_titles": [],
+      "renamed": [],
+      "model_seconds": 60.3
+    }
+  ],
+  "index": {
+    "built_at": "2026-09-29T21:48:29",
+    "embed_model": "embeddinggemma",
+    "chunks": 105,
+    "sources": 7,
+    "notes": 27,
+    "newly_embedded": 93
+  }
+}

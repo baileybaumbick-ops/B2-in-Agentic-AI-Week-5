@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Drop folder for new sources before ingestion (the ingested copy lives in vault/Sources)
+inbox/
+
+# Obsidian per-device UI state
+vault/.obsidian/workspace*.json
+vault/.obsidian/cache
+
+# Never commit model weights or credentials
+*.gguf
+*.safetensors
+.env

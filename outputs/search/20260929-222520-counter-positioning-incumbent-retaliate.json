@@ -1,0 +1,53 @@
+{
+  "mode": "search",
+  "query": "counter-positioning incumbent retaliate",
+  "scope": "all",
+  "passages": [
+    {
+      "tag": "R1",
+      "path": "vault/Value and Advantage/Counter-Positioning.md",
+      "section": "Key Points",
+      "kind": "note",
+      "text": "### From Class 6 - Entry and Positioning\n- An entrant must choose a position regarding price and a bundle of features. ([[Class 6 - Entry and Positioning#Counter-positioning|Class 6 › Counter-positioning]])\n- Counter-positioning means choosing a position the incumbent does not want to fight. ([[Class 6 - Entry and Positioning#Counter-positioning|Class 6 › Counter-positioning]])\n- Fighting with incumbents would cost too much with their existing customers. ([[Class 6 - Entry and Positioning#Counter-positioning|Class 6 › Counter-positioning]])\n- Counter-positioning works better when the incumbent would find it hard to make your product well. ([[Class 6 - Entry and Positioning#Counter-positioning|Class 6 › Counter-positioning]])",
+      "cosine": 0.619,
+      "bm25": 9.16
+    },
+    {
+      "tag": "R2",
+      "path": "vault/Sources/Class 7 - Entry Dynamics.md",
+      "section": "Dynamic entry games",
+      "kind": "source",
+      "text": "An entry game is a structured way to think about how an incumbent will respond. The entrant chooses to enter or stay out; the incumbent chooses to retaliate or accommodate. You solve it by looking forward and reasoning backward (backward induction).\n\nIn the basic Ryanair game the incumbent gets £69M if there is no entry, £60M if it accommodates and £34M if it retaliates, so it accommodates, and the entrant enters if its fixed cost F is below £4.4M.\n\nAdd a second stage where, after accommodation, the entrant can enter another of the incumbent's markets (entrant £40M - F, incumbent £30M). Now the entrant would surely expand, so the incumbent compares £34M (retaliate) with £30M (accommodate then lose the second market) and retaliates. Knowing that, the entrant stays out. The counterintuitive lesson: having the extra option to expand makes the entrant worse off, because it triggers retaliation. The entrant would remove that option if it could.\n\nA threat to retaliate works only if it is credible: when the moment comes, the incumbent must actually want to carry it out.",
+      "cosine": 0.499,
+      "bm25": 10.19
+    },
+    {
+      "tag": "R3",
+      "path": "vault/Value and Advantage/Counter-Positioning.md",
+      "section": "",
+      "kind": "note",
+      "text": "Counter-positioning involves choosing a market position that the incumbent does not wish to fight over, thereby avoiding costly conflict with existing customers.",
+      "cosine": 0.599,
+      "bm25": 8.61
+    },
+    {
+      "tag": "R4",
+      "path": "vault/Sources/Class 6 - Entry and Positioning.md",
+      "section": "Counter-positioning",
+      "kind": "source",
+      "text": "An entrant has to choose a position: a price and a bundle of features. When you enter you take customers from incumbents, and incumbents may react. Counter-positioning means choosing a position the incumbent does not want to fight, because fighting would cost it too much with its existing customers.",
+      "cosine": 0.604,
+      "bm25": 7.62
+    },
+    {
+      "tag": "R5",
+      "path": "vault/Entry and Competition/Water Bottle Exercise.md",
+      "section": "Key Points",
+      "kind": "note",
+      "text": "- A monopolist selling the insulated bottle at $20 to all 10 customers earns a profit of $100. ([[Class 6 - Entry and Positioning#Water bottle exercise|Class 6 › Water bottle exercise]])\n- If the entrant copies the bottle at $19, the incumbent undercuts to $18.99, leading toward a price war. ([[Class 6 - Entry and Positioning#Water bottle exercise|Class 6 › Water bottle exercise]])\n- To win back a few customers, the incumbent must lower its price to all of them. ([[Class 6 - Entry and Positioning#Water bottle exercise|Class 6 › Water bottle exercise]])\n- Counter-positioning works better when the incumbent would find it hard to make your product well. ([[Class 6 - Entry and Positioning#Counter-positioning|Class 6 › Counter-positioning]])",
+      "cosine": 0.436,
+      "bm25": 7.68
+    }
+  ],
+  "seconds": 0.18
+}

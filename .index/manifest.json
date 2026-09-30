@@ -1,0 +1,934 @@
+{
+  "sources": {
+    "Class 3 - Added Value and Irreplaceability": {
+      "file": "vault/Sources/Class 3 - Added Value and Irreplaceability.md",
+      "sha256": "1335e7863adce66bc283f6096c408a3dc9896e92910dc7dacf61090862adfe57",
+      "source_id": "src-1335e7863adc",
+      "ingested_at": "2026-09-29"
+    },
+    "Class 1 - Introduction to Strategy": {
+      "file": "vault/Sources/Class 1 - Introduction to Strategy.md",
+      "sha256": "c0ce87b3e91d5804bde26284d0f2a67db15f54eadf5597adc837b86dd0abf6d7",
+      "source_id": "src-c0ce87b3e91d",
+      "ingested_at": "2026-09-29"
+    },
+    "Class 2 - Value Creation and Capture": {
+      "file": "vault/Sources/Class 2 - Value Creation and Capture.md",
+      "sha256": "e104e82a4d7a2b65e8c69fbf376cf03fc95ff295bf1618c230416fe7b7a3d7ff",
+      "source_id": "src-e104e82a4d7a",
+      "ingested_at": "2026-09-29"
+    },
+    "Class 4 - Industry Analysis": {
+      "file": "vault/Sources/Class 4 - Industry Analysis.md",
+      "sha256": "a13763db9909a10a232655b44b6a088b225300913f55255a19a28875c7372be3",
+      "source_id": "src-a13763db9909",
+      "ingested_at": "2026-09-29"
+    },
+    "Class 5 - Competitive Advantage": {
+      "file": "vault/Sources/Class 5 - Competitive Advantage.md",
+      "sha256": "31225f94628fa7590491de7b946ced1dd82856e6aa7947a9532130aa8a18d251",
+      "source_id": "src-31225f94628f",
+      "ingested_at": "2026-09-29"
+    },
+    "Class 6 - Entry and Positioning": {
+      "file": "vault/Sources/Class 6 - Entry and Positioning.md",
+      "sha256": "6865c74e6a2f350fc3e47e7c19c8de28098743e7436673f276ffd269fdbb118c",
+      "source_id": "src-6865c74e6a2f",
+      "ingested_at": "2026-09-29"
+    },
+    "Class 7 - Entry Dynamics": {
+      "file": "vault/Sources/Class 7 - Entry Dynamics.md",
+      "sha256": "02354fd7954017b53d76a9e3014e11ad4c834d7a766903d2bdc0970fe886a9fb",
+      "source_id": "src-02354fd79540",
+      "ingested_at": "2026-09-29"
+    },
+    "Class 8 - Strategic and Repeated Interactions": {
+      "file": "vault/Sources/Class 8 - Strategic and Repeated Interactions.md",
+      "sha256": "a170f230dd2a0d71ca0d65325cd58a8525e6129efde351d1c38c958b74cc229d",
+      "source_id": "src-a170f230dd2a",
+      "ingested_at": "2026-09-29"
+    }
+  },
+  "notes": {
+    "Joint Venture Exercise": {
+      "note_id": "note-ab70cda57c",
+      "topic": "Value and Advantage",
+      "summary": "Partnerships can be structured to maximize value, where the three-firm venture creates the most value.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 3 - Added Value and Irreplaceability": [
+          {
+            "point": "The three-firm venture creates the most value.",
+            "section": "Joint venture exercise"
+          },
+          {
+            "point": "A firm should get at most its added value.",
+            "section": "Joint venture exercise"
+          },
+          {
+            "point": "A firm should get at least its outside option (BATNA).",
+            "section": "Joint venture exercise"
+          }
+        ]
+      },
+      "related": [
+        "Defining Added Value",
+        "Irreplaceability Drives Value Capture",
+        "Value and Advantage"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Added Value": {
+      "note_id": "note-371627804a",
+      "topic": "Value and Advantage",
+      "summary": "Added value is the total value created by a firm minus the value created without it, representing what others would pay to keep the firm.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 3 - Added Value and Irreplaceability": [
+          {
+            "point": "Added value equals total value created with you in the market minus total value created without you.",
+            "section": "Defining added value"
+          },
+          {
+            "point": "A player should not expect to get more than its added value.",
+            "section": "Defining added value"
+          }
+        ],
+        "Class 8 - Strategic and Repeated Interactions": [
+          {
+            "point": "NutraSweet charged about $70/lb against an estimated marginal cost of about $18/lb.",
+            "section": "Case - Bitter Competition, the setup"
+          },
+          {
+            "point": "The gap between $30 and $70 looked attractive for the entrant.",
+            "section": "Case - Bitter Competition, the setup"
+          },
+          {
+            "point": "HSC created $400-600M of value for Coke and Pepsi but captured little of it.",
+            "section": "HSC's major mistake"
+          },
+          {
+            "point": "HSC's presence allowed Coke and Pepsi to push NutraSweet's price down from $50/lb.",
+            "section": "What happened"
+          }
+        ]
+      },
+      "related": [
+        "Competitive Advantage",
+        "Entry Deterrence",
+        "Irreplaceability Drives Value Capture",
+        "Joint Venture Exercise",
+        "Value Creation"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Intel Case": {
+      "note_id": "note-eecddd10d7",
+      "topic": "Company Cases",
+      "summary": "Intel's strategy shifted from DRAM to microprocessors, demonstrating how network effects and IP protection drive added value.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 3 - Added Value and Irreplaceability": [
+          {
+            "point": "Intel's strategy in DRAM involved innovation and product design, being first to market, pricing high and moving on.",
+            "section": "Case - Intel"
+          },
+          {
+            "point": "Intel's added value in DRAM collapsed, but persisted in microprocessors because of network effects.",
+            "section": "Case - Intel"
+          },
+          {
+            "point": "Intel captured added value through Intel Inside and a systems business.",
+            "section": "Case - Intel"
+          }
+        ]
+      },
+      "related": [
+        "Competitive Advantage",
+        "Entry Barriers",
+        "Irreplaceability Drives Value Capture",
+        "Network Effects",
+        "Takeaways",
+        "Tesla Case"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Strategy": {
+      "note_id": "note-31e10e6357",
+      "topic": "Strategy Foundations",
+      "summary": "Strategy is a plan to achieve a firm's goal by establishing a persistent difference over rivals.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 1 - Introduction to Strategy": [
+          {
+            "point": "Strategy is a plan of action to achieve the firm's goal (profit) that establishes a persistent difference over rivals.",
+            "section": "Defining strategy"
+          },
+          {
+            "point": "Strategy requires dissecting context and trade-offs to understand how others will respond and which features of the environment matter.",
+            "section": "Defining strategy"
+          },
+          {
+            "point": "Bad strategy is different from bad luck.",
+            "section": "Defining strategy"
+          }
+        ]
+      },
+      "related": [
+        "Context matters",
+        "Entry Deterrence",
+        "Trade-offs and opportunity cost"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Trade-Offs and Opportunity Cost": {
+      "note_id": "note-86e2d40c18",
+      "topic": "Strategy Foundations",
+      "summary": "Firms must manage trade-offs where moving one goal affects another, and opportunity cost is the value of the best alternative foregone.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 1 - Introduction to Strategy": [
+          {
+            "point": "Firms control operating decisions that move both revenue and cost, usually in opposite directions.",
+            "section": "Trade-offs and opportunity cost"
+          },
+          {
+            "point": "Examples include Netflix's password-sharing crackdown, Apple's App Tracking Transparency, and Disney launching streaming and cannibalizing cable.",
+            "section": "Trade-offs and opportunity cost"
+          },
+          {
+            "point": "Disney gave up more than $300 million a year in licensing fees when it pulled content from Netflix for Disney+.",
+            "section": "Trade-offs and opportunity cost"
+          }
+        ]
+      },
+      "related": [
+        "Added Value"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Economic Approach": {
+      "note_id": "note-4656c8a7c3",
+      "topic": "Strategy Foundations",
+      "summary": "Economics frames decisions by identifying decision makers, goals, choices, and outputs, moving from description to prediction to prescription.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 1 - Introduction to Strategy": [
+          {
+            "point": "Decision makers include rivals, suppliers, regulators and start-ups, not just your own executives.",
+            "section": "The economic approach"
+          },
+          {
+            "point": "Firms are assumed to maximize profit.",
+            "section": "The economic approach"
+          },
+          {
+            "point": "Equilibrium is the \"rest point\" of a system, driven by environmental changes, competition, and market forces.",
+            "section": "The economic approach"
+          }
+        ]
+      },
+      "related": [
+        "Case - Moneyball",
+        "Entry and Competition",
+        "Industry Analysis"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Moneyball Case": {
+      "note_id": "note-3f9ba93e4f",
+      "topic": "Company Cases",
+      "summary": "The Oakland A's found that on-base percentage predicted wins better than slugging, leading to an arbitrage opportunity that eventually converged toward market equilibrium.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 1 - Introduction to Strategy": [
+          {
+            "point": "Scouts valued players partly on looks (the \"Good Face\").",
+            "section": "Case - Moneyball"
+          },
+          {
+            "point": "On-base percentage predicted wins better than slugging, yet sluggers were paid far more.",
+            "section": "Case - Moneyball"
+          },
+          {
+            "point": "The market price and the true value of OBP converged by about 2004-2005 as markets moved toward equilibrium.",
+            "section": "Case - Moneyball"
+          }
+        ]
+      },
+      "related": [
+        "Entry and Competition",
+        "The Economic Approach",
+        "Value and Advantage"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Value Creation": {
+      "note_id": "note-d610ebab00",
+      "topic": "Value and Advantage",
+      "summary": "Value created is the gap between a customer's benefit and the cost. Firms must create this value before they can capture it.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 2 - Value Creation and Capture": [
+          {
+            "point": "Value created is the gap between the customer's benefit (willingness to pay, B) and the cost (C).",
+            "section": "Value created and value captured"
+          },
+          {
+            "point": "Firms can increase value by increasing benefits, decreasing costs, or increasing quantity.",
+            "section": "Value created and value captured"
+          },
+          {
+            "point": "A smaller slice of a bigger pie can be more valuable.",
+            "section": "Value created and value captured"
+          },
+          {
+            "point": "Allbirds raised willingness to pay only for sustainability-minded buyers while raising cost for all.",
+            "section": "Value created and value captured"
+          }
+        ]
+      },
+      "related": [
+        "Profit function",
+        "Profit maximization as the goal",
+        "Why firms fail to capture value"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Profit Function": {
+      "note_id": "note-9686424585",
+      "topic": "Strategy Foundations",
+      "summary": "Profit is calculated as (price - cost per unit) multiplied by the quantity sold. Strategies aim to raise profit by changing price, cost, or quantity.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 2 - Value Creation and Capture": [
+          {
+            "point": "Profit = (price - cost per unit) x quantity.",
+            "section": "The profit function"
+          },
+          {
+            "point": "Strategies raise profit by raising price, lowering unit cost, or raising quantity.",
+            "section": "The profit function"
+          },
+          {
+            "point": "H&H Bail Bonds tried to raise quantity by loosening standards, but this also raised costs.",
+            "section": "The profit function"
+          }
+        ]
+      },
+      "related": [
+        "Added Value",
+        "Strategy",
+        "Value created and value captured"
+      ],
+      "updated": "2026-09-29"
+    },
+    "CF Industries Case": {
+      "note_id": "note-f355da426e",
+      "topic": "Company Cases",
+      "summary": "CF created value by controlling the supply chain, storage, and pricing information for fertilizer, using regulatory barriers to capture market advantage.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 2 - Value Creation and Capture": [
+          {
+            "point": "CF created value by having ammonia where and when farmers needed it.",
+            "section": "Case - CF Industries"
+          },
+          {
+            "point": "CF captured value through terminals, which are heavily restricted by regulation (an entry barrier).",
+            "section": "Case - CF Industries"
+          },
+          {
+            "point": "Storage allowed CF to sell to the higher-priced agricultural market rather than the industrial market.",
+            "section": "Case - CF Industries"
+          },
+          {
+            "point": "The $3.8 billion expansion led competitors to cancel their own plans, acting as entry deterrence.",
+            "section": "Case - CF Industries"
+          }
+        ]
+      },
+      "related": [
+        "Barriers to Entry",
+        "Entry Deterrence",
+        "Trade-Offs and Opportunity Cost"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Five Forces": {
+      "note_id": "note-4bed5df3b1",
+      "topic": "Industry Analysis",
+      "summary": "Porter's Five Forces is a framework used to analyze how much value an industry can create and how much firms can keep as profit. It serves as a checklist to understand the context of competition.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 4 - Industry Analysis": [
+          {
+            "point": "The five forces are substitutes, buyer power, supplier power, entry, and rivalry.",
+            "section": "Five Forces as a starting point"
+          },
+          {
+            "point": "Substitutes meet the same need as your product and affect profit similarly to an entrant with a different product.",
+            "section": "Substitutes"
+          },
+          {
+            "point": "Buyers can push prices down when they are few and large, when there are many substitutes, or when they can bypass the seller.",
+            "section": "Buyer power and supplier power"
+          },
+          {
+            "point": "Supplier power is high when suppliers face little competition and you cannot easily make the input yourself.",
+            "section": "Buyer power and supplier power"
+          }
+        ]
+      },
+      "related": [
+        "Buyer power and supplier power",
+        "Rivalry",
+        "Substitutes"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Entry Barriers": {
+      "note_id": "note-d6636b5b3a",
+      "topic": "Entry and Competition",
+      "summary": "Barriers to entry make a market difficult to enter or less profitable for new competitors. These barriers can include economies of scale, scarce resources, and intellectual property.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 4 - Industry Analysis": [
+          {
+            "point": "Barriers include economies of scale relative to market size, scarce resources, and learning curves.",
+            "section": "Entry and barriers to entry"
+          },
+          {
+            "point": "Direct network effects and indirect platform network effects exist in the context of entry.",
+            "section": "Entry and barriers to entry"
+          },
+          {
+            "point": "Intellectual property, such as patents, is crucial in industries like pharmaceuticals.",
+            "section": "Entry and barriers to entry"
+          }
+        ]
+      },
+      "related": [
+        "Intellectual Property",
+        "Network Effects"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Rivalry": {
+      "note_id": "note-ac4cf5cee1",
+      "topic": "Industry Analysis",
+      "summary": "Rivalry describes the intensity of competition among current rivals, and price rivalry is a major factor in determining profit.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 4 - Industry Analysis": [
+          {
+            "point": "Price rivalry hurts profit most, while rivalry in quality or brand can be offset by higher prices.",
+            "section": "Rivalry"
+          },
+          {
+            "point": "Price rivalry is fierce when products are homogeneous, search costs are low, and switching costs are low.",
+            "section": "Rivalry"
+          },
+          {
+            "point": "In the Cola Wars, Coke and Pepsi competed on advertising and marketing instead of a price war.",
+            "section": "Case - Cola Wars"
+          }
+        ]
+      },
+      "related": [
+        "Case - Cola Wars",
+        "Five Forces",
+        "Value Creation"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Cola Wars Case": {
+      "note_id": "note-4981c04942",
+      "topic": "Company Cases",
+      "summary": "The Cola Wars illustrates how Coke and Pepsi shaped competition by focusing on advertising and differentiation rather than price wars.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 4 - Industry Analysis": [
+          {
+            "point": "Carbonated soft drinks represent 27% of US beverage consumption and $48 billion in US sales.",
+            "section": "Case - Cola Wars"
+          },
+          {
+            "point": "Coke and Pepsi competed on advertising and marketing, moving competition from price to dimensions that grow the market.",
+            "section": "Case - Cola Wars"
+          },
+          {
+            "point": "Entry barriers included scale in distribution, established channels, and brand recognition.",
+            "section": "Case - Cola Wars"
+          }
+        ]
+      },
+      "related": [
+        "Entry and Competition",
+        "Rivalry",
+        "Strategy Foundations"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Competitive Advantage": {
+      "note_id": "note-da04d91031",
+      "topic": "Value and Advantage",
+      "summary": "Competitive advantage is the ability to be consistently more profitable than rivals in a market. It means being irreplaceable in a way that differs from competitors.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 5 - Competitive Advantage": [
+          {
+            "point": "Competitive advantage is the ability to be consistently more profitable than competitors in the same market or industry.",
+            "section": "Definition"
+          },
+          {
+            "point": "A firm with a competitive advantage is irreplaceable in a way that differs from its rivals.",
+            "section": "Definition"
+          },
+          {
+            "point": "A value proposition is a short, precise statement of how the firm intends to create value, its plan for opening the gap between benefit B and cost C.",
+            "section": "Value proposition"
+          },
+          {
+            "point": "Assets enable activities, and activities create competitive advantage when they fit the context.",
+            "section": "The AAA framework"
+          }
+        ]
+      },
+      "related": [
+        "The AAA framework",
+        "Three sources of competitive advantage",
+        "Value Creation"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Value Proposition": {
+      "note_id": "note-a9b57c1253",
+      "topic": "Value and Advantage",
+      "summary": "The value proposition is a statement detailing how a firm intends to create value and bridge the gap between customer benefits and costs.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 5 - Competitive Advantage": [
+          {
+            "point": "Firms create value in different ways, such as Toyota focusing on volume and reliability versus Porsche focusing on performance.",
+            "section": "Value proposition"
+          },
+          {
+            "point": "The value proposition outlines the plan for opening the gap between benefit B and cost C.",
+            "section": "Value proposition"
+          }
+        ]
+      },
+      "related": [
+        "Added Value",
+        "Strategy",
+        "Three sources of competitive advantage"
+      ],
+      "updated": "2026-09-29"
+    },
+    "AAA Framework": {
+      "note_id": "note-99da6d50cc",
+      "topic": "Value and Advantage",
+      "summary": "The AAA framework links assets, activities, and advantage, where assets enable activities, and activities create advantage when they fit the context.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 5 - Competitive Advantage": [
+          {
+            "point": "Assets are what the firm has, including resources and capabilities.",
+            "section": "The AAA framework"
+          },
+          {
+            "point": "Activities are what the firm chooses to do with its assets, and strategy lives in the activities.",
+            "section": "The AAA framework"
+          },
+          {
+            "point": "Advantage results when the chosen activities suit the context.",
+            "section": "The AAA framework"
+          }
+        ]
+      },
+      "related": [
+        "Strategy",
+        "Three sources of competitive advantage",
+        "Value Creation"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Cost-Based Advantage": {
+      "note_id": "note-02a8cb690e",
+      "topic": "Value and Advantage",
+      "summary": "Cost-based advantage is achieved by optimizing costs, such as using data or strategic investments to achieve operational excellence.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 5 - Competitive Advantage": [
+          {
+            "point": "Chevron used sensors and machine learning for predictive maintenance on about 5,000 heat exchangers, saving millions.",
+            "section": "Three sources of competitive advantage"
+          },
+          {
+            "point": "AMD invested in PC and server CPUs and graphics despite conventional wisdom, paying $325 million to exit a contract.",
+            "section": "Three sources of competitive advantage"
+          }
+        ]
+      },
+      "related": [
+        "Benefit-based",
+        "Intel Case"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Niche-Based Advantage": {
+      "note_id": "note-4cd88fa9fd",
+      "topic": "Value and Advantage",
+      "summary": "Niche-based advantage involves finding a subset of customers where price rivalry is reduced, often through differentiation.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 5 - Competitive Advantage": [
+          {
+            "point": "Horizontal differentiation means customers disagree about the ideal product, such as in music or fashion.",
+            "section": "Three sources of competitive advantage"
+          },
+          {
+            "point": "Vertical differentiation means customers agree on a product but differ on the price they will pay for quality.",
+            "section": "Three sources of competitive advantage"
+          },
+          {
+            "point": "Kam Pek Casino targets low rollers by using live dealers on video, keeping labor cost 30% below other casinos.",
+            "section": "Three sources of competitive advantage"
+          }
+        ]
+      },
+      "related": [
+        "Entry Barriers",
+        "Horizontal differentiation",
+        "Vertical differentiation"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Entry and Exit": {
+      "note_id": "note-5ad3b4925f",
+      "topic": "Entry and Competition",
+      "summary": "Entry and exit are common occurrences where entrants and exiting firms are generally smaller than established firms. Entry and exit rates vary significantly across different industries.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 6 - Entry and Positioning": [
+          {
+            "point": "Entrants and exiting firms tend to be smaller than established firms.",
+            "section": "Facts about entry and exit"
+          },
+          {
+            "point": "Those that survive grow quickly.",
+            "section": "Facts about entry and exit"
+          },
+          {
+            "point": "Entry is broader than new firms, including new markets and new products.",
+            "section": "Facts about entry and exit"
+          },
+          {
+            "point": "Entry includes new markets (M-Pesa entering India, Amazon entering grocery) and new products (Ozempic, Vanilla Coke, the microprocessor).",
+            "section": "Facts about entry and exit"
+          }
+        ]
+      },
+      "related": [
+        "Entry Barriers",
+        "Entry Examples",
+        "Five Forces"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Counter-Positioning": {
+      "note_id": "note-cdb5f31687",
+      "topic": "Value and Advantage",
+      "summary": "Counter-positioning involves choosing a market position that the incumbent does not wish to fight over, thereby avoiding costly conflict with existing customers.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 6 - Entry and Positioning": [
+          {
+            "point": "An entrant must choose a position regarding price and a bundle of features.",
+            "section": "Counter-positioning"
+          },
+          {
+            "point": "Counter-positioning means choosing a position the incumbent does not want to fight.",
+            "section": "Counter-positioning"
+          },
+          {
+            "point": "Fighting with incumbents would cost too much with their existing customers.",
+            "section": "Counter-positioning"
+          },
+          {
+            "point": "Counter-positioning works better when the incumbent would find it hard to make your product well.",
+            "section": "Counter-positioning"
+          }
+        ],
+        "Class 7 - Entry Dynamics": [
+          {
+            "point": "The first attempt was an undifferentiated direct attack with a murky target customer and drew retaliation.",
+            "section": "Case - Ryanair, second entry"
+          },
+          {
+            "point": "The second focus was on very price-sensitive travelers with an offer incumbents could not match.",
+            "section": "Case - Ryanair, second entry"
+          }
+        ]
+      },
+      "related": [
+        "Added Value",
+        "Competitive Advantage",
+        "Value Creation",
+        "Value Proposition"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Water Bottle Exercise": {
+      "note_id": "note-aed9b9e171",
+      "topic": "Entry and Competition",
+      "summary": "This exercise illustrates how positioning can influence outcomes when an entrant challenges an incumbent's offering.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 6 - Entry and Positioning": [
+          {
+            "point": "A monopolist selling the insulated bottle at $20 to all 10 customers earns a profit of $100.",
+            "section": "Water bottle exercise"
+          },
+          {
+            "point": "If the entrant copies the bottle at $19, the incumbent undercuts to $18.99, leading toward a price war.",
+            "section": "Water bottle exercise"
+          },
+          {
+            "point": "To win back a few customers, the incumbent must lower its price to all of them.",
+            "section": "Water bottle exercise"
+          },
+          {
+            "point": "Counter-positioning works better when the incumbent would find it hard to make your product well.",
+            "section": "Counter-positioning"
+          }
+        ]
+      },
+      "related": [
+        "Counter-positioning",
+        "Strategy",
+        "Value Creation"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Tesla Case": {
+      "note_id": "note-1156dec907",
+      "topic": "Company Cases",
+      "summary": "Tesla demonstrated how learning-curve and scale effects can overcome initial financial disadvantages, leveraging technological advantages to overcome high entry barriers.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 6 - Entry and Positioning": [
+          {
+            "point": "The Model S was Tesla's first real production car and the first entry by a new US carmaker since WWII.",
+            "section": "Case - Tesla"
+          },
+          {
+            "point": "Learning-curve and scale effects could make the numbers much better than they looked for a start-up.",
+            "section": "Case - Tesla"
+          },
+          {
+            "point": "Tesla overcame high barriers by building its brand and selling directly instead of through dealers.",
+            "section": "Case - Tesla"
+          },
+          {
+            "point": "Tesla's durable advantage may lie in software, batteries, and charging rather than car making.",
+            "section": "Case - Tesla"
+          }
+        ]
+      },
+      "related": [
+        "Competitive Advantage",
+        "Entry Barriers",
+        "Strategy"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Entry Deterrence": {
+      "note_id": "note-5c73f209ef",
+      "topic": "Entry and Competition",
+      "summary": "Incumbents can keep competitors out by changing the payoffs before entry occurs. This involves actions like limiting pricing or expanding capacity to make entry unattractive.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 7 - Entry Dynamics": [
+          {
+            "point": "Limit pricing to make entry unattractive (Alcoa).",
+            "section": "Entry deterrence"
+          },
+          {
+            "point": "Capacity expansion to commit to fighting (DuPont in titanium dioxide, CF Industries).",
+            "section": "Entry deterrence"
+          },
+          {
+            "point": "Product proliferation to fill every niche so there is no room (cereal, drug variants, railroad branch lines).",
+            "section": "Entry deterrence"
+          },
+          {
+            "point": "Predatory pricing to build a reputation (OPEC, Uber, Walmart).",
+            "section": "Entry deterrence"
+          }
+        ],
+        "Class 8 - Strategic and Repeated Interactions": [
+          {
+            "point": "Large incumbents expand capacity to deter entrants.",
+            "section": "Takeaways"
+          },
+          {
+            "point": "Lock large customers into long-term contracts.",
+            "section": "Takeaways"
+          },
+          {
+            "point": "Punish small entrants to send a message.",
+            "section": "Takeaways"
+          }
+        ]
+      },
+      "related": [
+        "Competitive Advantage",
+        "Entry Barriers",
+        "Entry and Exit",
+        "Five Forces"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Dynamic Entry Games": {
+      "note_id": "note-b5ee8841e5",
+      "topic": "Entry and Competition",
+      "summary": "This framework analyzes how incumbents will respond to an entrant's decision to enter, using backward induction to predict strategic responses.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 7 - Entry Dynamics": [
+          {
+            "point": "The incumbent gets £69M if there is no entry, £60M if it accommodates and £34M if it retaliates.",
+            "section": "Dynamic entry games"
+          },
+          {
+            "point": "The entrant enters if its fixed cost F is below £4.4M.",
+            "section": "Dynamic entry games"
+          },
+          {
+            "point": "Having the extra option to expand makes the entrant worse off because it triggers retaliation.",
+            "section": "Dynamic entry games"
+          }
+        ]
+      },
+      "related": [
+        "Entry Barriers",
+        "Entry Deterrence",
+        "Five Forces"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Strategic Context": {
+      "note_id": "note-47258aa1dd",
+      "topic": "Strategy Foundations",
+      "summary": "The context includes various factors like buyers, competitors, legal limits, and internal assets that influence outcomes.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 1 - Introduction to Strategy": [
+          {
+            "point": "Context includes who the buyers are, the cost structure, competitors and their interests, legal and regulatory limits, internal incentives, and assets such as brand, location, technology and IP.",
+            "section": "Context matters"
+          },
+          {
+            "point": "Amazon buying Whole Foods made sense for Amazon but would not for FedEx or Uber.",
+            "section": "Context matters"
+          },
+          {
+            "point": "M-Pesa succeeded in Kenya due to urban-to-rural remittances, more than 80,000 cash-out agents, light regulation (it was treated as a telecom product, not banking), and Safaricom being the dominant carrier.",
+            "section": "Context matters"
+          }
+        ]
+      },
+      "related": [
+        "Case - Moneyball",
+        "Industry Analysis",
+        "Value and Advantage"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Public Goods": {
+      "note_id": "note-2aa577316d",
+      "topic": "Value and Advantage",
+      "summary": "Space debris is a negative externality, and cleanup is a public good. Astroscale proposes a revenue plan to fund general cleanup by selling data and contracting for specific removals.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 2 - Value Creation and Capture": [
+          {
+            "point": "Space debris is a negative externality and cleanup is a public good.",
+            "section": "Astroscale and public goods"
+          },
+          {
+            "point": "Cleanup is hard due to practical, legal, and economic reasons.",
+            "section": "Astroscale and public goods"
+          },
+          {
+            "point": "Astroscale plans to sell mapping data and contract for satellite removal to fund general cleanup.",
+            "section": "Astroscale and public goods"
+          }
+        ]
+      },
+      "related": [
+        "Entry Deterrence",
+        "Industry Analysis",
+        "Public Goods"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Repeated Interactions": {
+      "note_id": "note-bb36b1f361",
+      "topic": "Strategy Foundations",
+      "summary": "Repeated interactions allow firms to build reputations and cooperate by threatening retaliation over the long term.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 8 - Strategic and Repeated Interactions": [
+          {
+            "point": "Repetition lets players build a reputation and cooperate by threatening retaliation.",
+            "section": "Repeated interactions and reputation"
+          },
+          {
+            "point": "Firms often interact for years to build reputation.",
+            "section": "Repeated interactions and reputation"
+          },
+          {
+            "point": "Long-term players can sustain cooperation by splitting markets.",
+            "section": "Repeated interactions and reputation"
+          }
+        ]
+      },
+      "related": [
+        "Repeated interactions and reputation",
+        "Rivalry",
+        "Strategy"
+      ],
+      "updated": "2026-09-29"
+    },
+    "Pricing Game": {
+      "note_id": "note-1bac8c5465",
+      "topic": "Industry Analysis",
+      "summary": "Algorithmic pricing can be used to sustain high prices without explicit agreement, complicating antitrust enforcement.",
+      "created": "2026-09-29",
+      "points": {
+        "Class 8 - Strategic and Repeated Interactions": [
+          {
+            "point": "Pricing algorithms can learn to sustain high prices without explicit agreement.",
+            "section": "Pricing game and algorithmic collusion"
+          },
+          {
+            "point": "Q-learning agents experiment with prices and learn from profits.",
+            "section": "Pricing game and algorithmic collusion"
+          },
+          {
+            "point": "This makes antitrust enforcement harder.",
+            "section": "Pricing game and algorithmic collusion"
+          }
+        ]
+      },
+      "related": [
+        "Algorithmic Collusion",
+        "Five Forces"
+      ],
+      "updated": "2026-09-29"
+    }
+  }
+}
